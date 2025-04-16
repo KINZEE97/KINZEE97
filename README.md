@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting intu
 
 ## 🌟 About Me
 
--   💻 I'm a software developer with expertise in **JavaScript|TypeScript**.
+-   💻 I'm a software developer with expertise in **Backend devlopment**.
 -   🌱 Currently learning: **Frontend**.
 -   🤝 Open to collaborations on exciting projects.
 
