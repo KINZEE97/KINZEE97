@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm KINZEE97
+# Hi there! 👋 I'm Alizon Kingslen 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves crafting intuitive and impactful solutions. 🚀
 
