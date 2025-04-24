@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting intu
 
 Here are some tools and technologies I work with:
 
-![Skill Icons](https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,express,prisma,postgres&theme=light)
+![Skill Icons](https://skillicons.dev/icons?i=html,css,js,typescript,git,github,nodejs,express,prisma,postgres&theme=light)
 
 ---
 
