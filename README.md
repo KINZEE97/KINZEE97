@@ -38,5 +38,3 @@ Here are some tools and technologies I work with:
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_ 🌟
 
 ---
-
-![Snake animation](https://github.com/KINZEE97/KINZEE97/blob/output/github-contribution-grid-snake.svg) 
