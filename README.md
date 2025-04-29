@@ -39,4 +39,4 @@ Here are some tools and technologies I work with:
 
 ---
 
-![Snake animation](https://github.com/leandroooh/leandroooh/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/KINZEE97/KINZEE97/blob/output/github-contribution-grid-snake.svg) 
