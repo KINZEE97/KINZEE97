@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting intu
 
 Here are some tools and technologies I work with:
 
-![Skill Icons](https://skillicons.dev/icons?i=git,github&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=docker,git,github&theme=dark)
 
 - Frontend:
 
-![Skill Icons](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,sass,react&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,sass,react,next&theme=dark)
 
 - Backend:
 
