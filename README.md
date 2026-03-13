@@ -20,7 +20,7 @@ Here are some tools and technologies I work with:
 
 - Frontend:
 
-![Skill Icons](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,sass,react,next&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,sass,react,next,tailwindcss&theme=dark)
 
 - Backend:
 
